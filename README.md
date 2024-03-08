@@ -9,4 +9,4 @@ That repo contains:
 - source code for spatcon.c and grayspatcon.c
 - compiled, static-linked executables for spatcon.c and grayspatcon.c (Linux, MacOS, Windows)
 - user Guides (pdf) for spatcon.c and grayspatcon.c
-- links to further information about Peter's GTB and GWB
+- the Guides contain links to further information about Peter's GTB and GWB
